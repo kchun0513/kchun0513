@@ -1,5 +1,6 @@
 ### Hi there 👋
-컴퓨터학부 20학번 김충훈입니다. 소속팀은 펩시제로입니다.
+컴퓨터학부 20학번 김충훈입니다. 
+학교 계정
 
 <!--
 **kchun0513/kchun0513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
