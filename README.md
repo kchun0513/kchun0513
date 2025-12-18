@@ -1,4 +1,4 @@
-### Hi there 👋
+### Growing up...!
 모바일 주로 파는 컴퓨터학부 20학번 김충훈입니다. 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kchun0513)](https://solved.ac/kchun0513/)
